@@ -1,4 +1,7 @@
-
+/*
+ * @ Amparo Izquierdo
+ * amizba@gmail.com
+ */
 import java.util.Scanner;
 
 public class Ejercicio1 {
